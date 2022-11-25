@@ -6,7 +6,7 @@
 package javaapplication1;
 
 
-public class NewClass {
+public class mohmed {
     public static void main(String[] args) {
         System.out.println("mohmed mossad");
 
